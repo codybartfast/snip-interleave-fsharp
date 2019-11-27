@@ -1,3 +1,5 @@
+// https://stackoverflow.com/a/55963025/53252
+
 let interleave = Seq.transpose >> Seq.concat
 
 let sequences =
